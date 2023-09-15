@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Haley Ristow",
+    "email": "123345@gmail.com",
+    "phone": "532-123-3465",
+    "birthdate": "12/12/1992",
+    "id": 1
+  }, 
+  {
+    "name": "William Smith",
+    "email": "Wilot@yahoo.com",
+    "phone": "123-342-3425",
+    "birthdate": "01/01/2001",
+    "id": 2
+  }
+]
